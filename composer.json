@@ -1,5 +1,5 @@
 {
-	"name": "tuner88/laravel-redmine-api",
+	"name": "gary101/laravel-redmine-api",
 	"description": "Laravel wrapper for the Redmine API.",
 	"license": "MIT",
 	"keywords": ["laravel", "redmine", "api", "client", "wrapper"],
